@@ -13,3 +13,7 @@ I'll make a list of my likes:
 3. Technology
 4. Philosophy
 5. Hiking
+
+## Emojis
+
+I love :coffee: :camping: :pizza: and :paintbrush:
